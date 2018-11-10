@@ -78,3 +78,7 @@ img, video, audio, iframe, table, form {
 }
 
 /*    Layout styles     */
+
+.row {
+  margin-bottom: 20px;
+}
